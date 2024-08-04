@@ -4,7 +4,6 @@ import com.yc.tomcat2.javax.servlet.YcServlet;
 import com.yc.tomcat2.javax.servlet.YcServletContext;
 import com.yc.tomcat2.javax.servlet.YcServletRequest;
 import com.yc.tomcat2.javax.servlet.YcServletResponse;
-import com.yc.tomcat2.javax.servlet.http.YcHttpServlet;
 import com.yc.tomcat2.javax.servlet.http.YcHttpServletRequest;
 
 import java.io.PrintWriter;

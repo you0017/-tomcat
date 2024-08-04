@@ -10,9 +10,7 @@ import org.w3c.dom.NodeList;
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 import java.io.*;
-import java.lang.annotation.Annotation;
 import java.net.*;
-import java.nio.charset.StandardCharsets;
 import java.util.Enumeration;
 
 public class TomcatServer {
